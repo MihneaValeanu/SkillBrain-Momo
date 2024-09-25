@@ -37,3 +37,5 @@ git push origin sprint7
 PULL
 
 git checkout main
+
+git pull origin main
